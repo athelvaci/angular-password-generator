@@ -1,3 +1,5 @@
+This is a simple password generator app that created with using Angular 9. Its already deployed up and running. 
+Check it out on --> https://angular-password-generator-red.vercel.app/
 # Pw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
